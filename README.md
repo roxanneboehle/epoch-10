@@ -5,4 +5,6 @@ In this challenge we discover the autoencoder and build an encoder and decoder o
 There are two options in this challenge:
  - Create an encoder yourself and a corresponding decoder (this is a harder and more creative challenge)
  - Create only the decoder based on a given encoder (when you are a beginner)
+
+
 The data preprocessing and displaying the image is already included in the challenges. At the end you can view the generated number based on the trained model!
